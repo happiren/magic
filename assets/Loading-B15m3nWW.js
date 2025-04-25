@@ -1,1 +1,0 @@
-import{_ as a,d as o,c as s}from"./index-DYM_3iik.js";const c={class:"loading-spinner"},e={__name:"Loading",setup(_){return(n,t)=>(o(),s("div",c))}},d=a(e,[["__scopeId","data-v-5dca097a"]]);export{d as L};
